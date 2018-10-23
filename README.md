@@ -14,3 +14,4 @@
 
 得出结论：先走全局数据成员，再走的是实现的接口的方法，然后再走的是构造方法
 # Generic-implement
+# Generic-implement
